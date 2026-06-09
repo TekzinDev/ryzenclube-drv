@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_VULN_DRIVER  RCDATA "iqvw64e.sys"
+IDR_DEEPSCAN     RCDATA "..\\DeepScan\\x64\\Release\\DeepScan.sys"
